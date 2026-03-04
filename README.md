@@ -112,21 +112,6 @@ Trabalho com **APIs**, **bots**, **painéis web**, integrações e automações 
 
 ---
 
-# 📌 Pinned
-
-No seu perfil do GitHub:
-**Profile → Customize your pins**  
-Fixe 3 a 6 repos que você quer vender/mostrar (bot, API, dashboard, painel, etc).
-
-Sugestão de “pins” (pra ficar bonito e profissional):
-- `takeshi-bot` (seu bot principal)
-- `ctrlpanel` (painel / dashboard)
-- `strelizia-api` (API)
-- `docs` (documentação e prints)
-- `deploy` (scripts de deploy / docker / nginx)
-
----
-
 ## 📫 Contato
 🌐 Site/Portfólio: https://kauadev.imperiocloud.com.br
 📧 Email: (kauatechsolucoes@gmail.com)
